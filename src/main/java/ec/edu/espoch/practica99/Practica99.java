@@ -14,14 +14,13 @@ public class Practica99 {
         System.out.println("Hello World!");
         
         
-       double num1=5;
-         double num2=10;
-         int menu = 1;
-        switch (menu) {
-         case 1:
+       int num1=10;
+       int num2=3; {
+        ///holaaaaa
+         
              System.out.println("Estas diviendo los dos nuemros");
             System.out.println("Resultado:" + (num1 / num2));
-          break;
+          
        
         }
         
